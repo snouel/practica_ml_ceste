@@ -1,0 +1,24 @@
+# Cachés de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IMPORTANTE: NO ignoramos model.pkl porque Render/Railway lo necesitan
+# !model.pkl

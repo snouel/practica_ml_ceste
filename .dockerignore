@@ -1,0 +1,30 @@
+# Cachés de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+.pytest_cache/
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Notebooks y datos auxiliares
+*.ipynb
+.ipynb_checkpoints/
+
+# Configuración del editor / sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Git
+.git/
+.gitignore
+
+# Logs
+*.log
